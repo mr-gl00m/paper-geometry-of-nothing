@@ -8,7 +8,7 @@
 
 ## Overview
 
-A computational investigation of vacuum friction in 1+1D dynamical Casimir cavities. Using a validated quantum field simulator ([Nothing Engine](https://github.com/mr-gl00m/paper-geometry-of-nothing)), this paper reports three principal findings:
+A computational investigation of vacuum friction in 1+1D dynamical Casimir cavities. Using a validated quantum field simulator ([Nothing Engine](https://github.com/mr-gl00m/nothing-engine)), this paper reports three principal findings:
 
 1. **The Spectral Matching Trap** — Naive topology comparisons produce dramatic apparent differences (99% vs 24.5% energy depletion) that vanish entirely under spectral matching. The false-positive mechanism is characterized and shown to be a general hazard for boundary-condition comparison studies.
 
