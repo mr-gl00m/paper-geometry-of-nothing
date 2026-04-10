@@ -4,7 +4,9 @@
 
 **Date:** April 3, 2026
 
-**Repository:** github.com/mr-gl00m/paper-geometry-of-nothing
+**Links:** 
+- https://github.com/mr-gl00m/paper-geometry-of-nothing
+- https://github.com/mr-gl00m/nothing-engine
 
 **Companion Software:** Nothing Engine — Open-source 1+1D quantum field theory simulator with dynamical plate coupling and multi-topology boundary support
 
